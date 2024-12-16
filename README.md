@@ -21,7 +21,7 @@
     <p>O arquivo <code>queries.sql</code> contém várias consultas SQL que demonstram a recuperação de dados, aplicação de filtros, criação de expressões derivadas, ordenação de dados, condições de filtros aos grupos e junções entre tabelas.</p>
     <h2>Instruções para Execução</h2>
     <ol>
-        <li>Crie o banco de dados e as tabelas executando o script <code>schema.sql</code>.</li>
+        <li>Crie o banco de dados e as tabelas executando o script <code>ecomerceDB.sql</code>.</li>
         <li>Insira os dados iniciais executando o script <code>insert_data.sql</code>.</li>
         <li>Execute as consultas SQL no arquivo <code>queries.sql</code> para testar o banco de dados.</li>
     </ol>
